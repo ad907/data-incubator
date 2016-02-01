@@ -1,5 +1,5 @@
 # data-incubator
-Data Incubator challenge questions \n
-Question1
-Question2
-ProjectPropoosal
+Data Incubator challenge questions  
+Question1  
+Question2  
+ProjectPropoosal  
