@@ -2,4 +2,4 @@
 Data Incubator challenge questions  
 Question1  
 Question2  
-ProjectPropoosal  
+project -- project proposal, for more information please see figueiredo.weebly.com
